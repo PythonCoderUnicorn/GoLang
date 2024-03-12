@@ -10,7 +10,7 @@ import (
     "flag"
     "fmt"
 	"github.com/charmbracelet/lipgloss" // for color and styled box
-	cf "github.com/i582/cfmt/cmd/cfmt"  // for color text formatting
+	cf "github.com/i582/cfmt/cmd/cfmt"  // for color text formatting  proper link: https://github.com/i582/cfmt
 )
 
 var pl = fmt.Println 
